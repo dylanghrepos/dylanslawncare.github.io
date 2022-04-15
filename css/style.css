@@ -1033,7 +1033,7 @@ pre {
   .col-lg-3 {
     -webkit-box-flex: 0;
     -ms-flex: 0%;
-    flex: 0 0 25%;
+    flex: 0 0 60%;
     max-width: 100%; }
   .col-lg-4 {
     -webkit-box-flex: 0;
